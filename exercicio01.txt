@@ -1,0 +1,27 @@
+Faça um algoritmo:
+
+Dado 5 números lidos em ordem crescente, calcule a média e a mediana.
+O algoritmo deve imprimir na tela a média e a mediana dos números.
+
+-----------------------------------------------------
+
+# Inicio do Algoritmo
+# Números recebidos em ordem crescente
+num1 = recebe_primeiro
+num2 = recebe_segundo
+num3 = recebe_terceiro
+num4 = recebe_quarto
+num5 = recebe_quinto
+
+#Calcula média
+soma_numeros = num1 + num2 + num3 + num4 + num5
+media = soma_numero / 5
+
+#Calcula Mediana / Termo do meio (num3)
+mediana = num3
+
+imprime(" A média dos 5 números é: ")
+imprime(media)
+
+imprime(" A mediana dos 5 números é: ")
+imprime(mediana)
