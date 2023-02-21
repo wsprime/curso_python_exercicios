@@ -1,0 +1,40 @@
+Lista de Exercicios 1
+
+Exercicio 1)
+Faça um programa em python que leia do usuário os seguintes dados:
+Nome:
+Endereco:
+Telefone:
+Email:
+
+Após a leitura, imprima os dados recebidos na tela do usuário.
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio1.py
+-----------------------------------------------------------------------------------------------------------
+Exercicio 2)
+Faça um programa em python que leia dois números do usuário
+Converta esses números para o tipo float usando a função float()
+
+Após a leitura, imprima a soma, subtração, divisão e multiplicação entre esses dois números.
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio2.py
+-----------------------------------------------------------------------------------------------------------
+Exercicio 3) 
+Faça um programa em python que defina as seguintes funções:
+soma(a, b)
+subtrai(a, b)
+multiplica(a, b)
+divide(a, b)
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio3.py
+-----------------------------------------------------------------------------------------------------------
+Exercicio 4)
+Faça um programa em python que utilize as funções do Exercicio 3
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio4.py
+-----------------------------------------------------------------------------------------------------------
+Exercicio 5)
+Faça um programa em python que leia 3 números e imprima o maior deles para o usuário.
+Utilize as estruturas condicionais.
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio5.py
+-----------------------------------------------------------------------------------------------------------
