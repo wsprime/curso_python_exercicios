@@ -1,0 +1,27 @@
+Lista de Exercicios 2
+
+Exercicio 1)
+Faça um programa em python que leia do usuário os seguintes dados:
+Nome:
+Endereco:
+Telefone:
+Email:
+
+Esses dados devem ser armazenados em uma estrutura do tipo dicionário.
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista2_exercicio1.py
+-----------------------------------------------------------------------------------------------------------
+
+Exercicio 2)
+Faça um programa em python que leia 5 números em uma lista.
+
+Através de uma estrutura de repetição for, imprima todos os números.
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio2.py
+
+-----------------------------------------------------------------------------------------------------------
+
+Exercicio 3)
+Faça um programa em python que conte até 1000 utilizando a estrutura de repetição while.
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista1_exercicio3.py
