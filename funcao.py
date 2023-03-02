@@ -3,6 +3,7 @@ print("Meu programa que usa função")
 def multiplica(num1, num2):
     multiplicacao = num1 * num2
     return multiplicacao
+
 # Definição da Função soma
 def soma(num1, num2):
     soma = num1 + num2
