@@ -1,4 +1,4 @@
-Lista de Exercicios 2
+Lista de Exercicios 3
 
 Exercicio 1)
 Faça um programa em python que possua uma classe chamada 'Pessoa'.
