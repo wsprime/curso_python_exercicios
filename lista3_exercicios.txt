@@ -1,0 +1,31 @@
+Lista de Exercicios 2
+
+Exercicio 1)
+Faça um programa em python que possua uma classe chamada 'Pessoa'.
+A classe pessoa deve ter 4 atributos (variaveis): nome, endereco, telefone e email.
+A classe pessoa deve ter dois métodos: imprimir_nome() e imprimir_email()
+
+Crie algumas instâncias de Pessoa testando os métodos criados
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista3_exercicio1.py
+-----------------------------------------------------------------------------------------------------------
+
+Exercicio 2)
+Faça um modulo em python com a classe criada no exercicio 1.
+
+Crie um programa em python que utilize o módulo que você criou utilizando o import.
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista3_exercicio2.py
+
+-----------------------------------------------------------------------------------------------------------
+
+Exercicio 3)
+Faça um programa em python que exemplifique o uso de pacote:
+
+Ex.:
+
+pacote1/modulo1.py
+pacote1/modulo2.py
+lista3_exercicio3.py (Este arquivo vai usar os métodos que você criar dentro dos módulos que estão dentro dos pacotes)
+
+Salve o arquivo em seu repositório do github "curso_python_exercicios" com o nome de: lista3_exercicio3.py
